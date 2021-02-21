@@ -32,7 +32,7 @@ ms.locfileid: "90541937"
 
 [!code-csharp[csProgGuideExtensionMethods#4](~/samples/snippets/csharp/VS_Snippets_VBCSharp/csProgGuideExtensionMethods/cs/extensionmethods.cs#4)]
 
-可使用此 `WordCount` 指令将 `using` 扩展方法置于范围中：
+可使用 `using` 指令将 `WordCount` 扩展方法置于此范围中：
 
 ```csharp
 using ExtensionMethods;
