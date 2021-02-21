@@ -1,5 +1,5 @@
 ---
-title: 如何实现和调用自定义扩展方法 - C# 编程指南
+title: 如何实现并调用自定义扩展方法 - C# 编程指南
 description: 了解如何为任意 .NET 类型实现扩展方法。 客户端代码可通过添加对 DLL 的引用并添加 using 指令来使用方法。
 ms.date: 07/20/2015
 helpviewer_keywords:
